@@ -143,9 +143,8 @@
 }
 .main3 p{
   font-family: 'Raleway', sans-serif;
-  position: absolute;
-  color: #ffffff;
-  size: 250px;
+  color: white;
+  font-size: 250px;
 }
   .main3img img{
     margin-top:-30pt;
