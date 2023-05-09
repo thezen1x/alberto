@@ -139,14 +139,13 @@
   font-family: 'Raleway', sans-serif;
   font-size:25px;
   text-align: center;
-  color: rgb(255, 255, 255)
+  color: #ffffff;
 }
 .main3p {
   font-family: 'Raleway', sans-serif;
   position: absolute;
-  color: rgb(255, 255, 255);
+  color: #ffffff;
   size: 250px;
-  text-decoration: line;
 }
   .main3img img{
     margin-top:-30pt;
