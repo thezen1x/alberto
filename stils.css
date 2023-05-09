@@ -141,27 +141,11 @@
   text-align: center;
   color: #ffffff;
 }
-.main3 p{
-  font-family: 'Raleway', sans-serif;
-  color: white;
-  font-size: 250px;
-}
-.main3p{
-  font-family: 'Raleway', sans-serif;
-  color: white;
-  font-size: 250px;
-}
-.main3text p{
-  font-family: 'Raleway', sans-serif;
-  color: white;
-  font-size: 250px;
-}
 .main3p p{
-  font-family: 'Raleway', sans-serif;
-  color: white;
-  font-size: 250px;
-    position: absolute;
-}
+    font-family: 'Raleway', sans-serif;
+      font-size:30px;	
+      color: white;
+  }
   .main3img img{
     margin-top:-30pt;
     height:500px;
