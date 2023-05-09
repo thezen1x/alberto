@@ -1,0 +1,171 @@
+    /* Vispārīgās navigācijas joslas izkats */
+    .topnav {
+      background-color: #01102a;
+      overflow: hidden;
+      font-family:monospace
+    }
+    
+    /* Kā izkatīsies saites  */
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    /* Pievienoju krāsu navigācijai, kad uzbrauc ar peli virsū */
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    
+     /* Pievienoju krāsu navigācijai, kura ir tagad atvērta un aktīva */
+    .topnav a.active {
+      background-image: url('https://e0.pxfuel.com/wallpapers/918/620/desktop-wallpaper-physics-equation-physics-formulas.jpg');
+      background-color: #01050c;
+      color: white;
+    }
+    .topnavlimited {
+      float:right;
+      margin-right:3000px;
+  }
+  body {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+  }
+  .maincard {
+    background-image: url('https://e0.pxfuel.com/wallpapers/918/620/desktop-wallpaper-physics-equation-physics-formulas.jpg');
+    font-family: 'Raleway', sans-serif;
+    padding:40px;
+    text-align:center;   
+    background-color:#01050c;
+  }
+  .maincard h1{
+    font-family: 'Poppins', sans-serif;
+    font-size:60px;
+    color: white;
+  }
+  .maincard p {
+    font-family: 'Raleway', sans-serif;
+    font-size:40px;
+    color: white;
+  }
+  .mainimg img{
+    margin-top:-30pt;
+    height:425px;
+    width:381px;
+    float:left;
+    margin-left:250px;
+    border-radius: 8%;
+  }
+  .main2card {
+    background-image: url('https://e0.pxfuel.com/wallpapers/918/620/desktop-wallpaper-physics-equation-physics-formulas.jpg');
+    font-family: 'Raleway', sans-serif;
+    position:relative;
+      margin:auto;
+      padding:100px;
+      background-color:#01050c;
+    height:500px;
+  }
+  .main2text {
+    font-family: 'Raleway', sans-serif;
+    position:absolute;
+    left:60%;
+    color: white;
+  }
+  .main2text h1 {
+    font-family: 'Raleway', sans-serif;
+      font-size:60px;
+      color: white;
+  }
+  .main2p p{
+    font-family: 'Raleway', sans-serif;
+      font-size:30px;	
+      color: white;
+  }
+  .main2img img{
+      margin-top:22px;
+      height:256px;
+      width:256px;
+      float:right;
+      margin-left:200px;
+      border-radius: 15%;
+  }
+  .main2b a:link, a:visited {
+      border-radius:8px;
+      font-weight:bold;
+      background-color: #081657;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+  .main2b a:hover, a:active {
+      background-color: #08ebfb9a;
+      color: black;
+  }
+  .main3card {
+    background-image: url('https://e0.pxfuel.com/wallpapers/918/620/desktop-wallpaper-physics-equation-physics-formulas.jpg');
+    font-family: 'Raleway', sans-serif;
+    position:relative;
+    text-align: right;
+      margin: auto;
+      padding:100px;
+      background-color:#000206 ;
+    height:500px;
+  }
+  .main3text {
+    font-family: 'Raleway', sans-serif;
+    position:absolute;
+    text-align: center;
+  }
+  .main3text h1 {
+    font-family: 'Raleway', sans-serif;
+      font-size:45px;
+      left:5%;
+      position: relative;
+      color: rgb(255, 255, 255)
+  }
+  .main3text h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size:60px;
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
+.main3text h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size:25px;
+  text-align: center;
+  color: rgb(255, 255, 255)
+}
+.main3p {
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  color: rgb(255, 255, 255);
+  size: 25px;
+}
+  .main3img img{
+    margin-top:-30pt;
+    height:500px;
+    width:400px;
+    float:left;
+    margin-left:1100px;
+    border-radius: 8%;
+  }
+  .main3b a:link, a:visited {
+      border-radius:8px;
+      font-weight:bold;
+      background-color:  #04aa6d;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+  .main3b a:hover, a:active {
+      background-color: #6db5d1;
+      color: black;
+  }
