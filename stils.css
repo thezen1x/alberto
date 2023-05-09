@@ -146,6 +146,7 @@
   position: absolute;
   color: rgb(255, 255, 255);
   size: 250px;
+  text-decoration: line;
 }
   .main3img img{
     margin-top:-30pt;
